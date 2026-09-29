@@ -1,0 +1,9 @@
+CLASS zjs_bp_r_agencytp DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zjs_r_agencytp.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZJS_BP_R_AGENCYTP IMPLEMENTATION.
+ENDCLASS.

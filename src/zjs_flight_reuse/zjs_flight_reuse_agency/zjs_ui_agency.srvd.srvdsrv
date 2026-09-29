@@ -1,0 +1,6 @@
+@EndUserText.label: 'Agency'
+@AbapCatalog.extensibility.extensible: true
+@ObjectModel.leadingEntity.name: 'ZJS_C_AgencyTP'
+define service ZJS_UI_AGENCY {
+  expose ZJS_C_AGENCYTP as Agency;
+}

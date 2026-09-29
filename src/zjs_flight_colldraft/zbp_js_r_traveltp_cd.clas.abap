@@ -1,0 +1,5 @@
+CLASS zbp_js_r_traveltp_cd DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zjs_r_traveltp_cd.
+ENDCLASS.
+
+CLASS zbp_js_r_traveltp_cd IMPLEMENTATION.
+ENDCLASS.

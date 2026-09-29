@@ -1,0 +1,11 @@
+@EndUserText.label: 'Access Control'
+@MappingRole: true
+define role ZJS_R_BOOKINGTP_CD {
+    grant
+        select
+            on
+                ZJS_R_BOOKINGTP_CD
+                    where
+                        true;
+                        
+}

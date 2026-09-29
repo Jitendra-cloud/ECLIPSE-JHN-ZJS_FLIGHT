@@ -1,0 +1,9 @@
+CLASS zjs_bp_travel_u DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zjs_i_travel_u.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZJS_BP_TRAVEL_U IMPLEMENTATION.
+ENDCLASS.

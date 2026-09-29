@@ -1,0 +1,9 @@
+CLASS zjs_bp_booking_u_d DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zjs_i_travel_u_d.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZJS_BP_BOOKING_U_D IMPLEMENTATION.
+ENDCLASS.

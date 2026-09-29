@@ -1,0 +1,10 @@
+@EndUserText.label: 'Access Control'
+@MappingRole: true
+define role ZJS_C_TRAVELTP_CD {
+    grant
+        select
+            on
+                ZJS_C_TRAVELTP_CD
+                    where
+                        inheriting conditions from entity ZJS_R_TRAVELTP_CD;
+}
